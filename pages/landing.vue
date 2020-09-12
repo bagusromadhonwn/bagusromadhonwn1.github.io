@@ -39,7 +39,7 @@
         :showCursor="false"
         :loop="true"
         :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Happybirth day:) ^2500', 'Maap telat ngawene, hehehe ^2500', 'I always wanted to tell you... ^2500', 'Nevermind! >///<']"
-        :backDelay="500"
+        :backDelay="300"
         :typeSpeed="100"
         :backSpeed="20"
         :contentType="'null'"
