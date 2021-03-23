@@ -1,11 +1,11 @@
 // prettier-ignore
 export default [
 
-    { author: "Bagus_Ro", quotes: "Sorry telat ngawene" },
-    { author: "bagus_ro", quotes: "Hey! I wuv chuuuu! UwU" },
-    { author: "bagus_ro", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "bagus_ro", quotes: "I'm sorry for loving you." },
-    { author: "bagus_ro", quotes: "Hehehe UwUw kan." },
+    { author: "Bagusrown", quotes: "Semangat Kuliah Amengg🤗" },
+    { author: "bagusrown", quotes: "Hey! I wuv chuuuu! UwU" },
+    { author: "bagusrown", quotes: "I may not with you everyday, but I hope u always happy with him" },
+    { author: "bagusrown", quotes: "Yeah,even though I know you won't be able to write sweet stories about our relationship. I'm sorry, but 831." },
+    { author: "bagusrown", quotes: "Hehehe UwUw kan." },
     
     
 ];
