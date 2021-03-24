@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Happybirth day:) ^2500', 'Maap telat ngawene, hehehe ^2500', 'I always wanted to tell you... ^2500', 'Nevermind! >///<']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Semangat Kuliah Ameng ^2500', 'I may not with you everyday, but I hope u always happy with him.  ^2500', 'I always wanted to tell you.. ^2500', 'Nevermind!!']"
         :backDelay="300"
         :typeSpeed="100"
         :backSpeed="20"
