@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Semangat Kuliah ^2500', 'I may not with you everyday, but I hope u always happy with him.  ^2500', 'I always wanted to tell you.. ^2500', 'I probably won't bother you anymore.']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Semangat Kuliah Amel ^2500', 'I may not with you everyday, but I hope u always happy with him.  ^2500', 'I always wanted to tell you.. ^2500', 'I probably won't bother you anymore.']"
         :backDelay="300"
         :typeSpeed="100"
         :backSpeed="20"
@@ -112,7 +112,7 @@ export default {
   transition: "slide-x-transition",
   data() {
     return {
-      // prettier-ignore
+      // prettier-ignore 
       nicknames: this.random(variables.nicknames), // random the nicknames (from variables.js)
       quotes: this.random(quotesFile), // random the quotes (from variables.js)
       greetings: function() {
