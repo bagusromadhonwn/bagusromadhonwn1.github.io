@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Semangat Kuliah Amell ^2500', 'I may not with you everyday, but I hope u always happy with him.  ^2500', 'I always wanted to tell you.. ^2500', 'I probably won't bother you anymore.']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Semangat Menjalani hari Nurul sayang ^2500', 'I may not with you everyday, but I hope u always happy with me forever.  ^2500', 'I always wanted to tell you.. ^2500', 'Aku slalu menyanyangimu lebih dari yang kau pikirkan.']"
         :backDelay="300"
         :typeSpeed="100"
         :backSpeed="20"
