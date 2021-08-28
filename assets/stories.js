@@ -3,5 +3,5 @@ export default [
   "Dikit lagi",
 "Satu kali lagi", 
   "Yok bisa yokk",
-  "Rausah emosi, sithik nkas"
+  "Sabar sayang, hampir sampe"
 ];
