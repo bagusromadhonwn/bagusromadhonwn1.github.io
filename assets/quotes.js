@@ -1,7 +1,7 @@
 // prettier-ignore
 export default [
 
-    { author: "Bagusrown", quotes: "Selamat ulang tahun reginataaaaaaaaaaa" },
+    { author: "Bagus.rown", quotes: "Selamat ulang tahun reginataaaaaaaaaaa" },
     
     
 ];
