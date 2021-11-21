@@ -1,8 +1,8 @@
 // prettier-ignore
 export default [
 
-    { author: "Bagusrown", quotes: "Semangat Beraktifitas Nurul Sayang🤗" },
-    { author: "bagusrown", quotes: "Tunggu hari kita akan bertemu!!☺." },
+    { author: "Bagusrown", quotes: "Selamat ulang tahun reginata🤗" },
+    { author: "bagusrown", quotes: "Semoga panjang umur dan sehat selalu, ojo judes teros mbek ak!!☺." },
     
     
 ];
