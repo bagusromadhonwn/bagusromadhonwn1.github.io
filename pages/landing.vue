@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Happy birthday regina ^2500', 'I may not with you everyday, but I hope u always happy forever.  ^2500']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Happy birthday regina ^2500', 'Semoga panjang umur dan sehat selalu, ojo judes teros mukamu:v, koyok reog nko malah. ^2500', 'keep up the spirit of school and I hope your day is always fun ^2500']"
         :backDelay="300"
         :typeSpeed="100"
         :backSpeed="20"
